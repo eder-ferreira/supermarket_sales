@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=kzQO0e5KCik
+
+VERSÃO DO PYTHON
+python -V
+
+SUBIR O SERVIDOR
+python -m http.server
+Serving HTTP on :: port 8000 (http://[::]:8000/)
+
+ABRIR O PROJETO NO NAVEGADOR
+streamlit run dashboards.py
+
+ALTERAR / DEFINIR A PORTA
+python -m http.server 9000
+
+NO NAVEGADOR
+localhost:8000
+
+DERRUBA O SERVIDOR
+CTLR + C
+
